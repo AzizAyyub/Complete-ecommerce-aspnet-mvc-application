@@ -36,6 +36,10 @@ For the backend database management, Microsoft Server has been chosen as the fou
 The frontend of the i-Rent web application is designed using Bootstrap. Bootstrap is a powerful and responsive front-end framework that facilitates the creation of visually appealing and user-friendly interfaces. By leveraging Bootstrap, the i-Rent platform ensures a seamless and consistent user experience across various devices.
 
 - Here are some outputs from the website::
+![Image alt text](page1.jpg)
+- 
+![Image alt text](page2.jpg)
+
 
 
 
